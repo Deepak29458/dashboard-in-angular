@@ -1,4 +1,19 @@
-.container{
+.container-fluid{
     max-width: 1085px;
-    margin-left: 300px;
+    margin-left: 250px;
+}
+
+.customText{
+    font-size: smaller;
+}
+
+body{
+    overflow:auto;
+}
+
+.customeBar{
+    position: relative;
+    right:60px;
+    /* transform: rotateY(39px); */
+    top: -160px;
 }
